@@ -1,0 +1,29 @@
+{
+ "name": "Madhyamakālaṃkāra: a workbook of language and philosophy",
+ "short_name": "Umagyen",
+ "description": "Classical Tibetan language and philosophy workbook on Śāntarakṣita's Madhyamakālaṃkāra with Mipham's commentary",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#E8E1D5",
+ "theme_color": "#8A4B2D",
+ "lang": "en",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
